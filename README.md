@@ -1,4 +1,7 @@
-# Viral Capsid TEM Geometry Calculator  
+# Git repo for this article:
+https://open.substack.com/pub/albertmathews/p/improbable-electron-microscope-image?r=4qbc35&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false
+
+
 **Why the “perfect rings” in herpesvirus EM images are geometrically extraordinary**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)

@@ -3,7 +3,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This repository contains pure-Python tools that let anyone reproduce the simple but shocking geometric calculation that can be done to investigate images b and c from: https://pmc.ncbi.nlm.nih.gov/articles/PMC6146708/figure/F8/ (copied versions also in repo for reference).
+This repository contains pure-Python tools that let anyone reproduce the simple but shocking geometric calculation that can be done to investigate images b and c from: https://pmc.ncbi.nlm.nih.gov/articles/PMC6146708/figure/F8/ (copied versions also in repo for reference). See ref [1] for source publication.
 
 > In a random 3D distribution of ~120 nm spherical capsids imaged in an 80 nm thin section, the probability that **25 capsids all show near-perfect 100+ nm rings with no obvious small arcs** is approximately **1 in 6 million** (and both Figure 8b + 8c together ≈ 1 in a trillion).
 
@@ -46,6 +46,9 @@ Classic thin-section TEM images of herpesviruses (and many other large viruses) 
 Under the standard assumptions (spherical particles, random 3-D positions, honest ~70–100 nm sections), this is **many-sigma impossible** without extreme ordering or selection.
 
 These scripts let anyone verify that claim in < 10 seconds, change the numbers (capsid size, section thickness, threshold), and see for themselves.
+
+## References
+[1] Mariamé B, Kappler-Gratias S, Kappler M, Balor S, Gallardo F, Bystricky K. Real-Time Visualization and Quantification of Human Cytomegalovirus Replication in Living Cells Using the ANCHOR DNA Labeling Technology. J Virol. 2018 Aug 29;92(18):e00571-18. doi: 10.1128/JVI.00571-18. PMID: 29950406; PMCID: PMC6146708. (https://pmc.ncbi.nlm.nih.gov/articles/PMC6146708/)
 
 ## License
 

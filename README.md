@@ -3,11 +3,11 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This repository contains pure-Python tools that let anyone reproduce the simple but shocking geometric calculation we discussed:
+This repository contains pure-Python tools that let anyone reproduce the simple but shocking geometric calculation that can be done to investigate images b and c from: https://pmc.ncbi.nlm.nih.gov/articles/PMC6146708/figure/F8/ (copied versions also in repo for reference).
 
 > In a random 3D distribution of ~120 nm spherical capsids imaged in an 80 nm thin section, the probability that **25 capsids all show near-perfect 100+ nm rings with no obvious small arcs** is approximately **1 in 6 million** (and both Figure 8b + 8c together ≈ 1 in a trillion).
 
-No virology. No literature. Just geometry and scale bars.
+This calculation does not need to reference any publications in virology for vlidation, it stands on it's own. Justthe images, geometry and scale bars are needed.
 
 ## Files
 
